@@ -69,3 +69,4 @@ I build AI products end to end: the agents, the workflows that keep them on trac
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00e5ff,50:101f4a,100:05070d&section=footer" width="100%" alt="" />
 </div>
+
